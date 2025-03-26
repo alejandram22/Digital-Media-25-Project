@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #dfdffb;
+	h1{ color: #8B008B
+		font-family: 'Courier New', monospace;}
+  h2 { color: #8B008B; }
+  p { color: #562056; }
+  a { color: #562056; }
+  li { color: #562056; }
+	<h1 id="C4">About Me</h1>
+ 
